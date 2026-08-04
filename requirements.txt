@@ -4,4 +4,4 @@ matplotlib
 joblib
 pickle
 seaborn
-scikit-learn
+scikit-learn==1.9.0
